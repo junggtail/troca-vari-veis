@@ -7,7 +7,6 @@ nome1 = Console.ReadLine()!;
 
 Console.Write("Laura..: ");
 nome2 = Console.ReadLine()!;
-
 auxiliar = nome1;
 nome1 = nome2;
 nome2 = auxiliar;
